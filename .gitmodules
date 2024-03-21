@@ -1,0 +1,3 @@
+[submodule "manager-app"]
+	path = manager-app
+	url = https://github.com/agbezrukov/manager-app.git
